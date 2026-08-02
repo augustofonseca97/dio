@@ -2,11 +2,13 @@
 link do projeto = https://notebook.google.com/notebook/ee1479af-5925-485d-8f26-776a72db7ca3
 
 Objetivo 
-.O objetibo desse projeto é criar um ebook que ajude pessoas a restituir o seu relacionamento, com base nas fontes de videos a artigos do Pastor Claudio duarte, nesse E-book, pessoas comum vão descobrir como superar os desafios de um relacionamento, e como se comportar para melhorar o seu relacionamento.
+
+O objetibo desse projeto é criar um ebook que ajude pessoas a restituir o seu relacionamento, com base nas fontes de videos a artigos do Pastor Claudio duarte, nesse E-book, pessoas comum vão descobrir como superar os desafios de um relacionamento, e como se comportar para melhorar o seu relacionamento.
 
 ------------------------------------------------------------------------------------------------------------
 Fontes
 - videos do youtbe
+
 https://www.youtube.com/watch?v=8HPU2rV_zh0
 
 https://www.youtube.com/watch?v=8cAE24MjHuQ&t=3s
