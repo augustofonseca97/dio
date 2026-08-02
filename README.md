@@ -21,7 +21,8 @@ https://www.youtube.com/watch?v=SGjVZGUH808
 
 ------------------------------------------------------------------------------------------------------------
 Engenharia de Prompts
--Prompt 1
+
+- Prompt 1
 * quero que produza um e-book  focado em ajudar casais a restaurar o casamento, quero que fale dos desafios de um casamentos, coisas que podem ajudar, e coisas que precisam mudar em um casamento, para que ele prospere, quero que tambem atribua um desafio ao final do e-book.
 ! Analise da resposta obtida: Resposta precisa e alinhada às fontes
 
@@ -37,7 +38,7 @@ Engenharia de Prompts
 Dificuldades e Aprendizados (Troubleshooting)
 - Dificuldades: não senti dificuldade para elaborar ou formular os prompt, eles funcionaram da maneira esperada, e com base das fontes selecionadas.
 
--Aprendizados: Notei que quanto mais específico é o prompet, como foco naquilo que você realmente precisa, a probalidade do prompt não funcioar é muito baixa, nas minhas 3 tentavias de prompet, a Notebook lm me entegou um E-book perfeito, direto ao foco, trazendo realemente os assuntos das fontes.
+- Aprendizados: Notei que quanto mais específico é o prompet, como foco naquilo que você realmente precisa, a probalidade do prompt não funcioar é muito baixa, nas minhas 3 tentavias de prompet, a Notebook lm me entegou um E-book perfeito, direto ao foco, trazendo realemente os assuntos das fontes.
 
 -----------------------------------------------------------------------------------------------------------
 Miniguia 
