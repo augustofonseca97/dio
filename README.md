@@ -8,10 +8,15 @@ Objetivo
 Fontes
 - videos do youtbe
 https://www.youtube.com/watch?v=8HPU2rV_zh0
+
 https://www.youtube.com/watch?v=8cAE24MjHuQ&t=3s
+
 https://www.youtube.com/watch?v=UTLM1CLV7us
+
 https://www.youtube.com/watch?
+
 https://www.youtube.com/watch?v=H4ui24yJfsU
+
 https://www.youtube.com/watch?v=SGjVZGUH808
 
 ------------------------------------------------------------------------------------------------------------
@@ -38,4 +43,4 @@ Dificuldades e Aprendizados (Troubleshooting)
 Miniguia 
 Resumo: Esse assunto foi escolhido pois se trata de um problema real enfrentado por diversos casais pelo mundo, a solução foi criar um modelo de e-book que busca orientar casais a não desistir de sua relação, trazendo conselho de um especialistas da area de relacionamentos, atravez da fontes do notebool LM, onde faz o leitor a entender as fases de um casamento, e como se portar diante a elas.
 
-prompet reutilizavel: os 3 prompt pode ser reutilizados para uma nova criação de Ebook
+prompet reutilizavel: Os três prompt podem ser reutilizados para uma nova criação de E-book, pois os três prompt tiveram o retorno esperado por mim.
